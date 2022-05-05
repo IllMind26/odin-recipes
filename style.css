@@ -1,0 +1,23 @@
+h1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #ffebcd;
+}
+
+h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ff0000;
+}
+
+li {
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f5dc;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
